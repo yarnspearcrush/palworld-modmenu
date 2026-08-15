@@ -14,13 +14,36 @@ A powerful hack tool for Palworld with clean in-game overlay
 
 ![1](https://github.com/yarnspearcrush/palworld-modmenu/blob/main/assets/image.png)
 
-| Player | World | Visuals | Misc |
-|-------|--------|-------|------|
-| Noclip | Chest Teleport | Peeking | Unload |
-| God Mode | Global Speed | FOV Changer | FPS Indicator |
-| Hit (Damage) Multiplier | Auto skip | Hide UI | FPS Unlock |
-| Kill aura | Mob vacuum | UID Changer | Load/Save/Reset Config |
-| | Dumb enemies | | |
+| Player | Inventory | Game | Stats |
+|--------|-----------|------|-------|
+| Unlimited Health | No Item Weight | Massive Work Speed (Player/All) | Unlimited Sanity (Pal) |
+| Refill Health | Choose Lifmunk Effigy | No Crafting Requirements | XP Multiplier |
+| Set Health Regen Rate | Set Effigy Amount | No Building Requirements | Get Info (Selected Pal) |
+| Unlimited Stamina | Set Item Amount (Selected) | 100% Capture Chance | Set Level (Selected Pal) |
+| Unlimited Satiety | | Capture Chance Multiplier | Set XP (Selected Pal) |
+| Refill Satiety | | All Pals Are Rare | Set Rank (Selected Pal) |
+| Set Satiety Decrease Rate | | Rare Pal Probability Multiplier | |
+| Temperature Always Normal | | Instant Work Progress | |
+| Set Stat Points | | Extra Work Progress | |
+| Set Technology Points | | Unlimited Torch Duration | |
+| Set Ancient Technology Points | | Base Structure Unlimited Health | |
+| | | Everyone Can Be Captured | |
+| | | Ignore Building Overlapping | |
+| | | Stop Time | |
+| | | Set Daytime/Nighttime Speed | |
+| | | Instant Fishing | |
+| | | No Crime Reporting | |
+| | | Fish Speed [%] | |
+| | | Pal Randomizer | |
+| | | Level Randomizer (Min/Max Level) | |
+| | | Advance / Rewind Time | |
+
+| Weapon | Enemy | Movement |
+|--------|-------|---------|
+| Unlimited Weapon Durability | Set Loot Drop Multiplier | Instant Acceleration |
+| No Heat (Overheat Rifle) | | Walking Speed Multiplier |
+| No Reload | | Sprint Speed Multiplier |
+| | | Jump Height Multiplier |
 
 ---
 
